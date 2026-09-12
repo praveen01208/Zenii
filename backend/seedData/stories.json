@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "69f9e51aa026df23d2f3c58c",
+    "story": "I felt lost and alone until I found ZenMind. The chatbot helped me understand that my feelings were valid, and the stories inspired me to keep going.",
+    "author": "Sarah, 16",
+    "rating": 5,
+    "__v": 0,
+    "createdAt": "2026-05-05T12:39:54.061Z",
+    "updatedAt": "2026-05-05T12:39:54.061Z"
+  },
+  {
+    "_id": "69f9e51aa026df23d2f3c58d",
+    "story": "The therapy sessions changed my life. Having someone who truly understands what I'm going through made all the difference.",
+    "author": "Michael, 17",
+    "rating": 5,
+    "__v": 0,
+    "createdAt": "2026-05-05T12:39:54.063Z",
+    "updatedAt": "2026-05-05T12:39:54.063Z"
+  },
+  {
+    "_id": "69f9e51aa026df23d2f3c58e",
+    "story": "I love how the platform shares stories when I need them most. It's like having a friend who always knows what to say.",
+    "author": "Emma, 15",
+    "rating": 5,
+    "__v": 0,
+    "createdAt": "2026-05-05T12:39:54.063Z",
+    "updatedAt": "2026-05-05T12:39:54.063Z"
+  },
+  {
+    "_id": "69f9e51aa026df23d2f3c58f",
+    "story": "I started journaling after each chat and now I can actually notice my progress week by week. It feels empowering.",
+    "author": "Aarav, 16",
+    "rating": 5,
+    "__v": 0,
+    "createdAt": "2026-05-05T12:39:54.063Z",
+    "updatedAt": "2026-05-05T12:39:54.063Z"
+  },
+  {
+    "_id": "69f9e51aa026df23d2f3c590",
+    "story": "The stories made me feel less alone. I realized so many teens are dealing with the same thoughts and emotions.",
+    "author": "Noah, 15",
+    "rating": 5,
+    "__v": 0,
+    "createdAt": "2026-05-05T12:39:54.064Z",
+    "updatedAt": "2026-05-05T12:39:54.064Z"
+  },
+  {
+    "_id": "69f9e51aa026df23d2f3c591",
+    "story": "Whenever I feel overwhelmed, ZenMind gives me practical coping steps immediately. It helps me calm down fast.",
+    "author": "Mia, 17",
+    "rating": 5,
+    "__v": 0,
+    "createdAt": "2026-05-05T12:39:54.064Z",
+    "updatedAt": "2026-05-05T12:39:54.064Z"
+  }
+]

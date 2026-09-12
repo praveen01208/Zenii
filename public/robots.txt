@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Allow: /#about
+Allow: /#features
+Allow: /#faq
+Allow: /#careers
+Allow: /#crisis-support
+Allow: /#help-center
+Allow: /#privacy-policy
+Allow: /#terms-of-service
+Allow: /#community
+Allow: /#safety-guidelines
+Allow: /#contact
+
+# Block private dashboards, admin command center, therapist workspace and private API calls
+Disallow: /api/
+Disallow: /admin
+Disallow: /therapist
+Disallow: /uploads/private/
+
+# Host & Sitemaps
+Host: https://zenmind-india.onrender.com
+Sitemap: https://zenmind-india.onrender.com/sitemap.xml

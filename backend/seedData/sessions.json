@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "69fa6026304ac287034dcd89",
+    "user": "69f9da65fe4edacb8ed03c5c",
+    "therapist": "69fa47e6c6d16efff8d06fc2",
+    "therapistName": "Dr. Jaheer Khan",
+    "date": "2026-05-07T06:30:00.000Z",
+    "amountPaid": 1200,
+    "status": "booked",
+    "createdAt": "2026-05-05T21:24:54.424Z",
+    "updatedAt": "2026-05-05T21:24:54.424Z",
+    "__v": 0
+  },
+  {
+    "_id": "69fb1aebf214f6dcd0a11e18",
+    "user": "69f9da65fe4edacb8ed03c5c",
+    "therapist": "69fa47e6c6d16efff8d06fc2",
+    "therapistName": "Dr. Jaheer Khan",
+    "date": "2026-05-06T10:45:00.000Z",
+    "amountPaid": 1200,
+    "status": "completed",
+    "review": "",
+    "createdAt": "2026-05-06T10:41:47.446Z",
+    "updatedAt": "2026-05-06T11:13:02.399Z",
+    "__v": 0,
+    "rating": 2
+  }
+]

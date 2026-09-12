@@ -1,0 +1,27 @@
+# dependencies
+node_modules
+
+# local scratch
+.claude/
+.mongo-data/
+
+# env files — ignore real secrets, but commit the examples
+.env
+.env.local
+.env.*.local
+backend/.env
+backend/.env.local
+!.env.example
+!backend/.env.example
+
+# build outputs — Render builds fresh from source
+dist
+
+# logs
+*.log
+
+# temp scripts
+patch_dashboard*.py
+patch_dashboard*.ps1
+find_comment.py
+patch_authpage.py

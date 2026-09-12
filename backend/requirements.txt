@@ -1,0 +1,11 @@
+# Zeni ACPE — Layer 2 dependencies
+# Install in Kaggle with: pip install -r requirements.txt
+
+anthropic>=0.30.0
+sentence-transformers>=2.7.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# sentence-transformers pulls torch; on Kaggle CPU runtime this is fine.
+# all-MiniLM-L6-v2 is ~80MB and downloads automatically on first use.
+# SQLite is built into Python — no install needed.
